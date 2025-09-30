@@ -1,2 +1,2 @@
-# first-web-site
+# KWAZARRR-глюк.github.io
 Практикуюсь в программировании
